@@ -10,4 +10,3 @@ print("The average of those numbers is: ")
 print(quotient)
 
 
-
